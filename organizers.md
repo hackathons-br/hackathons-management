@@ -1,0 +1,14 @@
+# Referências de organizadores
+- https://github.com/hackupc
+- https://github.com/HackCU
+- https://github.com/hackathon
+- https://github.com/HackNC
+- https://github.com/HackGT
+- https://github.com/NCBI-Hackathons
+- https://github.com/TreeHacks
+- https://github.com/techx
+- https://hackmit.org/
+- https://coderit.org/
+- https://mlh.io/
+- https://shawee.io/
+- https://angelhack.com/
