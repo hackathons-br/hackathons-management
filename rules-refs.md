@@ -4,3 +4,4 @@
 - https://gitlab.com/asabina/docs/hackathon-agreement
 - https://gitlab.com/zulban/public-servant-hackathon-guide
 - https://guide.mlh.io/
+- https://github.com/hackdaymanifesto/hackdaymanifesto.github.com
