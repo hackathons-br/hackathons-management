@@ -3,6 +3,7 @@
 - https://github.com/codeRIT/hackathon-manager
 - https://github.com/jmousseau/Hackry
 - https://github.com/ScientificClubofESI/LaraHack
+- https://github.com/leomotta121/hackatuning
 
 ## Registros (inscrições, check-ins e checkouts)
 - https://github.com/HackAssistant/registration
